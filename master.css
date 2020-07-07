@@ -1,0 +1,44 @@
+.img {
+    width: 100%;
+}
+
+.carousel1 {
+    background-color: black;
+    width: 90%;
+    position: relative;
+    left: 75px;
+}
+
+.btn-group-vertical {
+    position: fixed;
+    width: 50px;
+    height: 200px;
+}
+
+.button {
+    position: fixed;
+    width: 50px;
+    height: 200px;
+}
+
+.video {
+    float: right;
+    padding-left: 15px;
+}
+
+.about {
+    background-color: lightskyblue;
+    height: 600px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+h1 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#about {
+    margin-bottom: 50px;
+    margin-top: 70px;
+}
